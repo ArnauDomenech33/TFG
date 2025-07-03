@@ -1,5 +1,5 @@
 # TFG
-Implementation of Augmented Reality through Unity in the Drone Engineering Ecosystem
+**Implementation of Augmented Reality through Unity in the Drone Engineering Ecosystem**
 
 This project aims to develop an augmented reality application for controlling a drone using 3D waypoints developed with Unity. It is divided into two fundamental parts:
 - `Unity Develop Files`: project source files in Unity (editable and expandable).
