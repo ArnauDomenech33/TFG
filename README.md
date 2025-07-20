@@ -39,5 +39,5 @@ This is the complete editable Unity project. It contains everything necessary to
 - `Project report`: https://drive.google.com/file/d/12iaItstfErveYvdablRJ02K139dcuXsA/view?usp=sharing
 - `Video 1`: Explanation of how the final app works - https://www.youtube.com/watch?v=kioTnlS_fVY&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=3&ab_channel=DronsEETAC
 - `Video 2`: Explanation of how the final app and codes work inside the Unity interface - https://www.youtube.com/watch?v=S0_huR7sSpQ&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=2&ab_channel=DronsEETAC
-- Video 3: Basico tutorial about Unity - https://www.youtube.com/watch?v=iMTC6k2Q6pA&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=1&ab_channel=DronsEETAC
+- `Video 3`: Basico tutorial about Unity - https://www.youtube.com/watch?v=iMTC6k2Q6pA&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=1&ab_channel=DronsEETAC
 
