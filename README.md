@@ -3,7 +3,7 @@
 
 This project aims to develop an augmented reality application for controlling a drone using 3D waypoints developed with Unity. It is divided into two fundamental parts:
 - `Unity Develop Files`: project source files in Unity (editable and expandable).
-- `Links: links needed to better understand the project, where the report and explanatory videos are located.
+- `Links`: links needed to better understand the project, where the report and explanatory videos are located.
 
 ## UNITY DEVELOP FILES:
 This is the complete editable Unity project. It contains everything necessary to open it with Unity and continue the development of the system. The main structure includes this files:
