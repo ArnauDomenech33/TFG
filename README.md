@@ -3,7 +3,7 @@
 
 This project aims to develop an augmented reality application for controlling a drone using 3D waypoints developed with Unity. It is divided into two fundamental parts:
 - `Unity Develop Files`: project source files in Unity (editable and expandable).
-- `Unity Final App`: final application compiled and ready to run.
+- `Links: links needed to better understand the project, where the report and explanatory videos are located.
 
 ## UNITY DEVELOP FILES:
 This is the complete editable Unity project. It contains everything necessary to open it with Unity and continue the development of the system. The main structure includes this files:
@@ -35,25 +35,9 @@ This is the complete editable Unity project. It contains everything necessary to
 
 
 
-## UNITY FINAL APP:
-The Unity Final APP folder contains the compiled and executable version of the application. You don't need Unity to use it. Includes:
-- `Video DronAR.exe`: Main executable file.
-- `Video DronAR_Data/`: All the resources needed to run the app.
-- `UnityPlayer.dll, .pdb`, and other binary files.
-- `MonoBleedingEdge/`: Unity scripting engine.
-- `UnityCrashHandler64.exe`: Management of execution errors.
-- Standard dependencies of a Unity build for Windows.
-
-### HOW TO EXECUTE THE APP:
-1. Double-click DronAR.exe.
-2. Main menu screen is sown:
- -  `Play`: Access the waypoint control scene.
- -  `Quit`: closes the application.
-3. Waypoint control scene is shown: User can create waypoints manually or select predefined waypoints that create a circuit.
-4. Drone connection: after waypoints are defined, select between `Simulation` (simulated drone) or `Production` (real drone) mode and press `Connect`. If `Production mode` is selected, the user must write the `COM` port number where the telemetry receiver is connected.
-5. Drone telemetry data will appear.
-6. Press `Play` and PlayMenu scene is displayed:
-  - Press `Camera On button` to open the camera, if more than one camera is connected, `Switch Camera` button can be pressed to change between cameras.
-  - Press `Start`to show the waypoints.
-
+## LINKS:
+- `Project report`: https://drive.google.com/file/d/12iaItstfErveYvdablRJ02K139dcuXsA/view?usp=sharing
+- `Video 1`: Explanation of how the final app works - https://www.youtube.com/watch?v=kioTnlS_fVY&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=3&ab_channel=DronsEETAC
+- `Video 2`: Explanation of how the final app and codes work inside the Unity interface - https://www.youtube.com/watch?v=S0_huR7sSpQ&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=2&ab_channel=DronsEETAC
+- Video 3: Basico tutorial about Unity - https://www.youtube.com/watch?v=iMTC6k2Q6pA&list=PLyAtSQhMsD4qZiRrIQiJ4Q3FmbLlecF-2&index=1&ab_channel=DronsEETAC
 
